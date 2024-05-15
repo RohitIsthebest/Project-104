@@ -12,3 +12,4 @@ cv2.putText(img,"Uranus",(950,300),fontFace=cv2.FONT_HERSHEY_COMPLEX,fontScale=0
 cv2.putText(img,"Neptune",(1100,300),fontFace=cv2.FONT_HERSHEY_COMPLEX,fontScale=0.51,color=(0,0,255))
 cv2.imshow("solar",img)
 cv2.waitKey(0)
+print("hello")
